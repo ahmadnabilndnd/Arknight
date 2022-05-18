@@ -1,2 +1,0 @@
-# Arknight
-sample website
